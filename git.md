@@ -20,12 +20,13 @@ as possible.
 
 # Git is about history.
 
-Git stores *list's* of changes you've made over time to your code base called *commits*.
+Git stores lists of changes you've made over time to your code base called *commits*.
 Each commit contains a commit message, and a set of changes you've made to your code.
-You can view this history in any repository with the command `git log`. When you merge
-code into your repository, you take history from another repository and you add it
-to your own. There's 3 major methods to do this, depending on what you're doing, but
-first you need to be able to make history.
+You can view this *history*, or list of commits in any repository with the command 
+`git log`. When you merge code into your repository, you take history from another 
+"repository" (or rather branch as you'll learn in a bit) and you add it to your own. 
+There's 3 major methods to do this, depending on what you're doing, but first you 
+need to be able to make history.
 
 # Making history
 
